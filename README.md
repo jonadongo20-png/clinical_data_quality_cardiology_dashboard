@@ -57,8 +57,3 @@ This project delivers an end-to-end data cleaning pipeline and an interactive ex
 
 ---
 
-## 📂 Repository Structure
-```text
-├── README.md                             <- Executive case study and overview
-├── heart_patients_cleaned_dataset.xlsx   <- Complete workbook with clean data, pivot tables, and dashboard
-└── heart_patients_dashboard.png          <- Screenshot of the dynamic Excel dashboard
